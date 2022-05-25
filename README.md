@@ -1,7 +1,7 @@
 # Yandex-Praktikum-Data-Science-program
 Data Science and Data Analytics projects completed during [Yandex Praktikum Data science course](https://practicum.yandex.com/data-scientist/)
 
-## [Certificate](https://drive.google.com/file/d/100Dl5KKHLTA27n_S-Ix555_bCoxWAkiH/view?usp=sharing)
+## [Certificate](https://drive.google.com/file/d/1-seYNBlZoIoxYkhaMj1OhS1RVnUZwMDm/view?usp=sharing)
 
 This repository contains projects I worked on under Yandex Praktikum Data Science 8 month program.
 
