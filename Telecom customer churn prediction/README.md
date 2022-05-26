@@ -6,7 +6,7 @@
 
 ## Code and resources used
 
-**Python Version:** 3.10.2
+**Python Version:** 3.10.2\
 **Packages:** pandas, numpy, scipy, matplotlib, seaborn, sklearn, statsmodels, catboost
 
 ## Data description
